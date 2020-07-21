@@ -1,0 +1,4 @@
+1. Launch XAMPP Control Panel.
+2. Launch Apache and MySQL
+3. Go to phpmyadmin and import the database.
+4. Run the Launch file in the main folder
